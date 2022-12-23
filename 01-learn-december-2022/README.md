@@ -1,9 +1,8 @@
 # 01-learn-december-2022
-[Rust Book - Steve Klabnik & Carol Nichols](https://doc.rust-lang.org/book/title-page.html)
-[Tom McGurl](https://www.youtube.com/@TomMcGurl)
+[Rust Book - Steve Klabnik & Carol Nichols](https://doc.rust-lang.org/book/title-page.html) | [Tom McGurl](https://www.youtube.com/@TomMcGurl)
 
 ## Installation
-- Rust Installer Script - [$ curl --proto '=https' --tlsv1.3 https://sh.rustup.rs -sSf | sh]($ curl --proto '=https' --tlsv1.3 https://sh.rustup.rs -sSf | sh) 
+- Rust Installer Script - `$ curl --proto '=https' --tlsv1.3 https://sh.rustup.rs -sSf | sh` 
 - Check installation & version - `rustc --version`
 - Update rust - `rustup update`
 - Uninstall - `rustup self uninstall`
